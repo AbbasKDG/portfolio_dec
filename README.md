@@ -9,6 +9,14 @@ Skills, Projects and About Sections
 Follow with contact details
 Hosted on github.io page
 
+## Recommendations
+Replace instagram aesthetic with something more consistent and fluid
+Reduce buttons
+Colorful design
+Display webpages inside using iframe 
+
+
+
 ## Author
 * [Abbas](https://github.com/AbbasKDG)
 
